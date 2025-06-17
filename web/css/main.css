@@ -1,0 +1,15 @@
+.t33{
+	font-size: 33px;
+}
+.top_tab td:first-child{
+		width: 20%;
+		sbox-sizing: border-box; 
+		padding-left: 15px;
+		vertical-align: middle;
+}
+.btn_)a{
+	color: black;
+}
+.btn_a:hover{
+	color: white;	
+}
